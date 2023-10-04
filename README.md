@@ -1,3 +1,3 @@
 # ITacademyDS
-Repository for Data Science tasks. 
-In this repository you will find the tasks embebed on the data science program.
+Repositorio dedicado a almacenar los ejercicios que conforman el bootcamp de Data Science impartido en IT ACADEMY. 
+Los archivos llamados Iteración contienen los ejercicios resueltos requeridos para avanzar en el programa de data science.
